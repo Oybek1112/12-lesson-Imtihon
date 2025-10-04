@@ -1,0 +1,67 @@
+
+h1 
+{
+text-align: center;
+background-color: cadetblue;
+border-radius: 16px;
+border: 6px solid red;
+}
+
+.s 
+{
+color: gray;
+}
+
+.y 
+{
+color: red;
+}
+
+.x  
+{
+color: yellow;
+}
+
+.three
+{
+color: green;
+}
+
+table 
+{
+border-collapse: collapse;
+text-align: center;
+width: 100%;
+}
+
+tr, td, th, caption 
+{
+border: 2px solid wheat ;
+padding: 12px; 
+text-align: center;
+}
+
+.e 
+{
+background-color: red;
+}
+
+td 
+{
+background-color: purple;
+}
+
+button 
+{
+border: 0px;    
+background-color: green;
+padding: 10px 30px;
+cursor: pointer;
+font-size: 16px;
+display: block;
+}
+
+caption 
+{
+background-color: yellow;
+}
